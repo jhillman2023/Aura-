@@ -1,4 +1,4 @@
-# Aura- and gpio 
+# Aura-
 
 """  Milestone C - Software Design and Integration    
 Lesson 0:  
