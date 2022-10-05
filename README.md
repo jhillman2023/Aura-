@@ -1,4 +1,5 @@
-# Aura-
+# Aura- and gpio 
+
 """  Milestone C - Software Design and Integration    
 Lesson 0:  
 Blank Pygame Template with Raspberry Pi GPIO   
